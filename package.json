@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Portfolio website",
   "scripts": {
-    "build": "echo \"No build needed for static site\""
+    "build": "mkdir -p build && cp -r * build/"
   }
 }
