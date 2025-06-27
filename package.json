@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Portfolio website",
   "scripts": {
-    "build": "mkdir -p build && cp -r * build/"
+    "build": "bash build.sh"
   }
 }
