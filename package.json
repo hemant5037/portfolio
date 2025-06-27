@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Portfolio website",
   "scripts": {
-    "build": "bash build.sh"
+    "build": "echo \"No build needed for static site\""
   }
 }
